@@ -1,0 +1,15 @@
+/Users/gautier/sources/garaio/editorconfig/src/parser/bin/Debug/net7.0/parser
+/Users/gautier/sources/garaio/editorconfig/src/parser/bin/Debug/net7.0/parser.deps.json
+/Users/gautier/sources/garaio/editorconfig/src/parser/bin/Debug/net7.0/parser.runtimeconfig.json
+/Users/gautier/sources/garaio/editorconfig/src/parser/bin/Debug/net7.0/parser.dll
+/Users/gautier/sources/garaio/editorconfig/src/parser/bin/Debug/net7.0/parser.pdb
+/Users/gautier/sources/garaio/editorconfig/src/parser/obj/Debug/net7.0/parser.csproj.AssemblyReference.cache
+/Users/gautier/sources/garaio/editorconfig/src/parser/obj/Debug/net7.0/parser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gautier/sources/garaio/editorconfig/src/parser/obj/Debug/net7.0/parser.AssemblyInfoInputs.cache
+/Users/gautier/sources/garaio/editorconfig/src/parser/obj/Debug/net7.0/parser.AssemblyInfo.cs
+/Users/gautier/sources/garaio/editorconfig/src/parser/obj/Debug/net7.0/parser.csproj.CoreCompileInputs.cache
+/Users/gautier/sources/garaio/editorconfig/src/parser/obj/Debug/net7.0/parser.dll
+/Users/gautier/sources/garaio/editorconfig/src/parser/obj/Debug/net7.0/refint/parser.dll
+/Users/gautier/sources/garaio/editorconfig/src/parser/obj/Debug/net7.0/parser.pdb
+/Users/gautier/sources/garaio/editorconfig/src/parser/obj/Debug/net7.0/parser.genruntimeconfig.cache
+/Users/gautier/sources/garaio/editorconfig/src/parser/obj/Debug/net7.0/ref/parser.dll
