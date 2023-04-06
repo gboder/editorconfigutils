@@ -1,6 +1,3 @@
-# editorconfigutils
-This repository contains a minimal application to help merging editorconfig files
-
 # Objective
 
 Takes multiples `.editorconfig` files and merge their contents
